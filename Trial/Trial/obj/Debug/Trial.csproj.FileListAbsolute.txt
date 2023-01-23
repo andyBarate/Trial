@@ -1,0 +1,15 @@
+F:\update\Trial\Trial\bin\Debug\Trial.exe.config
+F:\update\Trial\Trial\bin\Debug\Trial.exe.manifest
+F:\update\Trial\Trial\bin\Debug\Trial.application
+F:\update\Trial\Trial\bin\Debug\Trial.exe
+F:\update\Trial\Trial\bin\Debug\Trial.pdb
+F:\update\Trial\Trial\obj\Debug\Trial.csproj.AssemblyReference.cache
+F:\update\Trial\Trial\obj\Debug\Trial.csproj.SuggestedBindingRedirects.cache
+F:\update\Trial\Trial\obj\Debug\Trial.Form1.resources
+F:\update\Trial\Trial\obj\Debug\Trial.Properties.Resources.resources
+F:\update\Trial\Trial\obj\Debug\Trial.csproj.GenerateResource.cache
+F:\update\Trial\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache
+F:\update\Trial\Trial\obj\Debug\Trial.exe.manifest
+F:\update\Trial\Trial\obj\Debug\Trial.application
+F:\update\Trial\Trial\obj\Debug\Trial.exe
+F:\update\Trial\Trial\obj\Debug\Trial.pdb
